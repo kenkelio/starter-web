@@ -3,3 +3,6 @@ this is random text
 
 for practice on Git
 
+more text 
+
+Im eating yogurt and eating berries
